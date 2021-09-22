@@ -6,3 +6,7 @@ Control 775 DC Motor RPM with rotary encoder
 - LCD with I2C  [->](https://robu.in/product/serial-lcd1602-iici2c-blue-backlight/)
 - Rotary Encoder [->](https://robu.in/product/m274-360-degree-rotary-encoder-module-brick-sensor/)
 
+## Schematic Diagram 
+[![Image][schematic]](https://github.com/Bunty9/Arduino_Rotary-Motor-Control/blob/master/Schematics.png)
+[schematic]: /Schematics.png
+
