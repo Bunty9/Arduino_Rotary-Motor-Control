@@ -7,6 +7,6 @@ Control 775 DC Motor RPM with rotary encoder
 - Rotary Encoder [->](https://robu.in/product/m274-360-degree-rotary-encoder-module-brick-sensor/)
 
 ## Schematic Diagram 
-[![Image][schematic]](https://github.com/Bunty9/Arduino_Rotary-Motor-Control/blob/master/Schematics.png)
-[schematic]: /Schematics.png
+
+<img src="/Schematics.png" alt="Logo" width="80%" height="80%">
 
